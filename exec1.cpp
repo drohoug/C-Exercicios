@@ -1,7 +1,7 @@
-//* @sobre  Exercicio 01 da aula 0 de programaÁ„o estruturada
+//* @sobre  Exercicio 01 da aula 0 de programa√ß√£o estruturada
 //* @author  Pedro Henrique RU: 5194697
 
-///* @brief  Este programa imprime na tela os valores de vari·veis de diferentes
+///* @brief  Este programa imprime na tela os valores de vari√°veis de diferentes
 /// tipos)
 #include <locale.h>
 #include <stdbool.h>
@@ -12,7 +12,7 @@ int main()
 {
   int valor_inteiro = 20;
   float valor_float = 20.5;
-  char texto[10] = "Aula 0"; // Allocate an array of 10 characters
+  char texto[10] = "Aula 0";
   bool boleano = false;
 
   printf("Valor inteiro: %d\n", valor_inteiro);
@@ -20,4 +20,5 @@ int main()
   printf("Valor string: %s\n", texto);
   printf("Valor booleano: %d\n", boleano);
 }
+
 
